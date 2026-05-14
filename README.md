@@ -1,12 +1,6 @@
 # Advanced Agricultural Management System 🌱
 
-An AI-based agricultural management system developed using Deep Learning techniques for crop disease prediction and production management.
-
-<img width="977" height="419" alt="image" src="https://github.com/user-attachments/assets/d1a145a7-8967-4c66-abe5-58ba152e5332" />
-<img width="981" height="531" alt="image" src="https://github.com/user-attachments/assets/1e6566d7-fdf9-430b-b11b-02ba081c32a4" />
-![Uploading image.png…]()
-
-
+An AI-powered agricultural management system developed using Deep Learning and CNN techniques for crop disease prediction, leaf analysis, and smart farming support. The project helps farmers identify crop diseases at an early stage, improve production management, and enhance crop yield through intelligent data-driven solutions.
 
 ## 📌 Features
 - Crop Disease Detection using CNN
@@ -41,7 +35,11 @@ An AI-based agricultural management system developed using Deep Learning techniq
 - Support sustainable farming
 
 ## 📷 Screenshots
-(Add your project screenshots here)
+
+<img width="977" height="419" alt="image" src="https://github.com/user-attachments/assets/d1a145a7-8967-4c66-abe5-58ba152e5332" />
+<img width="981" height="531" alt="image" src="https://github.com/user-attachments/assets/1e6566d7-fdf9-430b-b11b-02ba081c32a4" />
+![Uploading image.png…]()
+
 
 ## 🚀 Future Enhancements
 - Real-time disease detection
