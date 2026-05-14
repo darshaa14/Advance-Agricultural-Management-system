@@ -38,7 +38,8 @@ An AI-powered agricultural management system developed using Deep Learning and C
 
 <img width="977" height="419" alt="image" src="https://github.com/user-attachments/assets/d1a145a7-8967-4c66-abe5-58ba152e5332" />
 <img width="981" height="531" alt="image" src="https://github.com/user-attachments/assets/1e6566d7-fdf9-430b-b11b-02ba081c32a4" />
-![Uploading image.png…]()
+<img width="1058" height="422" alt="image" src="https://github.com/user-attachments/assets/2a0cf50e-31fc-4e66-b289-f89c1c77d2b4" />
+
 
 
 ## 🚀 Future Enhancements
