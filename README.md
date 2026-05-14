@@ -2,6 +2,9 @@
 
 An AI-based agricultural management system developed using Deep Learning techniques for crop disease prediction and production management.
 
+<img width="977" height="419" alt="image" src="https://github.com/user-attachments/assets/d1a145a7-8967-4c66-abe5-58ba152e5332" />
+
+
 ## 📌 Features
 - Crop Disease Detection using CNN
 - Leaf Image Processing
